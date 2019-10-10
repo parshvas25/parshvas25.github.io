@@ -277,3 +277,8 @@ canvas {
   margin-top: 10px;
   margin-bottom: 5px;
 }
+
+@media only screen and (max-width: 770px) {
+  #education h2 {
+    font-size: 40px;
+  }
