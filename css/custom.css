@@ -195,7 +195,6 @@ canvas {
 /* Experience section */
 #experience {
   padding: 3em 6% 3% 6%;
-  margin-right: 5%;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
     0 0px 20px 20px rgba(0, 0, 0, 0.19);
@@ -256,4 +255,25 @@ canvas {
 #contact a:hover {
   color: lightgrey;
   text-decoration: none;
+}
+
+#education h2 {
+  color: #3e4246 !important;
+}
+
+#education h3 {
+  color: #3e4246;
+}
+
+.uoft {
+  font-size: 20px;
+  font-style: italic;
+  margin-left: 10px;
+}
+
+.uoft-info {
+  text-align: center;
+  color: #4f4f4f;
+  margin-top: 10px;
+  margin-bottom: 5px;
 }
