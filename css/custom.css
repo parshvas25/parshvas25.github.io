@@ -56,15 +56,15 @@ canvas {
   color: whitesmoke;
 }
 
-@media only screen and (max-width: 850px) {
+@media only screen and (min-width: 575px) {
   .panel .headshot {
-    float: left;
+    float: right;
   }
   .panel .name-title {
     text-align: left;
   }
 }
-@media only screen and (max-width: 850px) {
+@media only screen and (max-width: 770px) {
   .panel {
     padding-top: 3em;
   }
