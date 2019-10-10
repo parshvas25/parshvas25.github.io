@@ -290,3 +290,10 @@ canvas {
     margin-right: 4px;
   }
 }
+
+@media only screen and (max-width: 770px) {
+  .uoft-info {
+    font-size: 30px;
+    margin-right: 4px;
+  }
+}
