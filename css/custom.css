@@ -278,15 +278,14 @@ canvas {
   margin-bottom: 5px;
 }
 
-@media only screen and (max-width: 770px) {
+@media only screen and (max-width: 850px) {
   #education h2 {
     font-size: 40px;
   }
 }
 
-@media only screen and (max-width: 770px) {
+@media only screen and (max-width: 850px) {
   #education h4 {
     font-size: 20px;
-    margin-right: 4px;
   }
 }
