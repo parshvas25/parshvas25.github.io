@@ -289,3 +289,9 @@ canvas {
     font-size: 20px;
   }
 }
+
+@media only screen and (max-width: 850px) {
+  #education h3 {
+    font-size: 25px;
+  }
+}
