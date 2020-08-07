@@ -295,3 +295,8 @@ canvas {
     font-size: 25px;
   }
 }
+
+.findr-video {
+  height: 100%;
+  width: 100%;
+}
